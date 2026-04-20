@@ -12,7 +12,7 @@ Save and manage your favorite links.
 - HTML / CSS
 
 ## 📸 Preview
-![preview](./preview.png)
+![preview](/assets/preview.png)
 
 ## 📌 Future Improvements
 - Tags system
